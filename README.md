@@ -1,3 +1,5 @@
 # Chat-App
-A simple chat app where multiple users can chat. Built using the Socket.io library in NodeJS![Screenshot (516)](https://user-images.githubusercontent.com/37322308/202510967-f7ca994c-e7b2-40af-b9fb-91c1b6092428.png)
-![Screenshot (517)](https://user-images.githubusercontent.com/37322308/202511005-9b82b8b9-b3d7-4db4-af79-54a0dc4ed321.png)
+A simple chat app where multiple users can chat. Built using the Socket.io library in NodeJS!
+
+![Screenshot (516)](https://user-images.githubusercontent.com/37322308/202511574-d9a4cef3-5788-4086-a5d8-a58da8933d9c.png)
+![Screenshot (517)](https://user-images.githubusercontent.com/37322308/202511590-72b56cf9-6621-4173-b5d3-45afdb22e42f.png)
